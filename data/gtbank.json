@@ -1,0 +1,442 @@
+[
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Open An Account",
+    "answer": "Internet Banking; Additional Account; Log on to Internet Banking with your User ID/Email and password.; Click My Account >> Additional Account; Select Account type to open (i.e. Current or Savings Account); Provide the answer to your secret question; Click the “I Accept the Terms and conditions” checkbox and click “Submit”; Enter your Token code and click “Submit” to complete the request; GTBank website; Access GTBank website: www.gtbank.com; Click “Personal Banking” or “Business Banking”; Select “Account” and Click account type to open; Complete the displayed form with requested details (e.g. Names, Account type, Address(es), email, etc.); Click the “I Accept the Terms and conditions” checkbox then click “Submit”; ATM; Locate any GTBank ATM; Press the “Enter” button on the ATM; Select “Open an Account”; Click the \"Proceed\" button; Input your BVN; Click the \"Proceed\" button; Input your mobile number; Click the \"Proceed\" button; Select your “Gender” to complete the request; Download the GTWorld app from the Google Play Store or Apple App Store.; Open the app and select \" Open an Account \"; Provide your basic details and submit your KYC documents digitally",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How To Link Your BVN To Your Account",
+    "answer": "USSD; Dial *737*20*BVN#; Follow the displayed instruction; Website; Visit the self Self Service Portal (gtbank.com) on the website",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How To Generate Your Account Statement",
+    "answer": "GTWorld; Log in to GTWorld; Select “Account Details”; Click “Statement”; Select your preferred Start date and End date; Click “Send”; * Please note that the statement will be sent to your registered email address. The maximum possible period for statement request is the last 6 months.; USSD; Dial *737*51*33#; Input email address; Input 737 Pin or Token code; Note: Only transactions done in the last 6 months will be captured; GTAssistant; Send an email to gtassistant@gtbank.com using the format below:; Dear GTBank,; Send my statement from month-day-year to month-day-year (i.e. May 1st 2022) for xxxxxxxxxx ( i.e. account number ); Regards.; Note: the output will be sent to the email address profiled on the account; Internet Banking; For Log on to Internet Banking with your User ID/Account/Phone No/Email and Password; Click My Account > Account Statement; Select account and period required then click “Generate”; To export generated statement to preferred file type, select an export format PDF (Signed & stamped) or Excel and Click “Export statement” or click “Printer Friendly Version”; Note: Only transactions done in the last 6 months with be captured; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How To Initiate A Salary Advance",
+    "answer": "GTWorld; Log in to the GTWorld App; Navigate to “Products” and select “Apply for loan”; Click “Salary Advance” and follow the prompts.; USSD; Dial *737*8*# using the mobile number linked to your bank account.; Select Salary Advance; Enter your desired loan amount (up to 50% of your net monthly salary); Input your 4-digit USSD PIN.; Internet Banking; Log on to Internet Banking with your user ID and password; Click Quick Loan>> Salary Advance; Click “New Request”; Complete the displayed form with required details (e.g. Account to credit, loan amount, tenor, etc.); Click on the “click here to agree” checkbox to agree to the terms and conditions governing the facility; Provide answer to your secret question and click “Continue” Enter your “Token code”; Click “Submit; Timeline: Salary advance will be made available within 24 hours",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Initiate A Premium Advance Request",
+    "answer": "This product is designed to grant overdraft facility to high net-worth customers via their cards.; Internet Banking; Log on to Internet Banking platform with your User ID/Email and Password; Click on Quick loans >> Premium Advance; Review the displayed “Terms and Conditions”; Select “New request”; Complete relevant details in the displayed form; Enter the “Answer to your secret question” and click “Continue”; Enter the code generated from hardware token or generate a soft token by dialling *737*7# using your registered mobile number, to complete your request for the facility.; N.B: This is available to platinum customers and existing Max plus customers; Timeline : Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Link or Unlink Your Account To Or From Your Card",
+    "answer": "Account Linking - This is a service that enables customers link any of their account to their card, so they can access funds in that account via the ATM or POS terminal.; Internet Banking; Log on to Internet Banking with your user ID/Email and password; Click Cards >> Account Linking/Delinking; Choose the Request type (i.e. \"Link\" ); Select card number​; Select Account to link to the card​; Provide Answer to your Secret Question; Enter generated Token code; Click on \"Continue\" to complete request; Account Unlinking : This is a service that enables customers link any of their account to their card, so they can access funds in that account via the ATM or POS terminal.; Internet Banking; Log on to Internet Banking with your user ID/Email and password; Click Cards >> Account Linking/Delinking; Choose the Request type (i.e. “Unlink\" ); Select card number​; Select Account to delink from the card​; Provide Answer to your Secret Question; Enter generated Token code; Click on \"Continue\" to complete request",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Confirm Cheques",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Cheques -> Confirm Cheque -> New Confirmation; Complete the displayed form with the required cheque details; Provide the answer to your secret question and click \"Continue\" Click \"Submit\"; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Check Your Account Balance",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click on My Accounts -> Balance Enquiry; Note: Balances of all accounts are displayed; GTWorld; Log on to GTWorld App; Click the arrow down button to the top left to view balances of your other accounts; Note: Account balance of default account is automatically displayed once logged in; IVR; Dial +2348039003900 or, +2348029002900 to use our IVR services; Select 1 to be served in English; Follow the IVR voice prompt and input your Internet Banking User Id & Password or 10 Digit account number & USSD PIN; Internet Banking User Id & Password or; 10 Digit account number & USSD PIN; Follow the IVR voice prompt and select 5 for \"Other account-related services\"; Then select 1 for the balance inquiry; USSD; Dial *737*6*1# on your registered mobile number; Input 737 PIN; The customer’s account balance(s) is immediately displayed",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Liquidate Loan",
+    "answer": "USSD; Dial *737*51*55#; Follow the displayed instruction; Enter your 737 PIN or Token code to complete the request; Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Quick loans >> Loan Liquidation​; Under \"loan liquidation request“, tick the box of the loan to be liquidated; Select liquidation type (Partial/Full); Select liquidation amount; Provide answer to your secret question; Enter generated Token Code; Click \"Submit\"; GTWorld; Log on to the GTWorld App; Navigate to Products >> Loan type (Quick Credit/Salary Advance); Click on the \"Loan Liquidation\" (select loan to be liquidated); Select liquidation type (Partial/Full); Click \"Submit\"; Input transaction PIN; Click \"Done\"; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Hide Or Unhide An Account on Internet Banking",
+    "answer": "Log on to Internet Banking with your User ID/Email and password; Click My Account > Account Profile Maintenance; Click either \"Add Account\" or \"Remove Account\" as appropriate; Select the account to be added or removed; Provide the answer to your Secret question; Click Continue; Enter generated Token code; Click the \"Submit\" button to complete the request; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Update Your GTBank Account Online",
+    "answer": "Internet Banking; Log on to Internet Banking; Click “Self-service” from the menu Bar; Select ‘Customer Information Update’; Select ‘New Request’; Complete all fields; Click \"Submit\"",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How To View Blocked Funds On Your Account",
+    "answer": "This allows you view breakdown of blocked funds due to Online/POS transactions on your account.; GTAssistant; Send an email to gtassistant@gtbank.com using the format below:; Dear GTBank,; Send difference for xxxxxxxxxx ( i.e. account number); Regards,; Note: the output will be sent to the email address profiled on the account; Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Cards > View Block Funds; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Apply For QuickCredit",
+    "answer": "Quick Credit is a time loan facility for Salary Earners i.e., individuals with salary accounts domiciled in GTBank. Customers are prequalified for the loan based on their salary inflows in the last six months.; USSD; Dial *737*51*51#; Follow the displayed instruction; Press \"1 \" to confirm the request for the displayed maximum credit amount; Press \"0\" to input other desired credit amount Enter 737 PIN to authenticate the request; Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Quick Loans > Quick Credit; Click \"New Request\"; Select the account to credit; Click on Determine eligibility; Select \"Click here to Apply for maximum eligibility amount\" or Enter \"Loan Amount\"; Select \"Click here to Agree to terms and conditions\"; Provide the answer to the secret question; Click \"Continue\"; Enter your Token Code Click \"Submit\"; GTWorld; Log on to the GTWorldApp; Click \"Products\" and select \"Apply for Loans\"; Click \"Quick Credit\"; Complete displayed form with requested loan tenor and loan amount; Agree to the terms and conditions; Click \"Proceed\" and Personalize your loan (give your loan a name); Click \"Apply\"; Input transaction PIN to submit the request",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Confirm a GTBank Account Reference",
+    "answer": "USSD; Dial *737*51*54#; Enter \"1\" to select customer to confirm; Enter PIN to complete reference confirmation; Self-Service Portal; Visit the Self Service Portal (gtbank.com) on the website; Select \"Reference Upload/Confirmation\" from the dropdown service selector and follow the prompts.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Resolve Transfer Issues to Wrong Beneficiary Account",
+    "answer": "GTConnect; For erroneous transfers to GTBank accounts; Please note that reversal of erroneous transfers can only be done on a best-effort basis. The bank is unable to debit the customer's account without the appropriate authority to do so.; Dial +2348039003900, +2348029002900 to speak with an agent; Provide the Call Center agent with details of the erroneous transfer (i.e. amount, account name/number, transaction date, and time); The Call Center agent verifies the details provided and blocks the funds for a period of 2 weeks only.; If the beneficiary is known to you;; Please contact the beneficiary of the funds to refund the amount directly to your account or; Ask the beneficiary to provide the bank with a duly signed instruction, authorizing the bank to reverse the transaction.; If you are unable to contact the beneficiary, please note that you will be required to provide a court order authorizing the bank to reverse the transaction as well as a duly signed indemnity form.; Upon receipt of your court Order/indemnity form by the Call Center agent, the transaction will be reversed and your account credited.; Note: The beneficiary account can only be blocked for a period of two weeks.; For erroneous transfers to other banks; Dial +2348039003900, +2348029002900 to speak with an agent; Provide the Call Center agent with details of the erroneous transfer (i.e. Bank name amount, account name/number, transaction date, and time). The bank will contact the beneficiary's bank to confirm the requirements necessary for the reversal of the transaction and inform you of the same.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Account Services",
+    "question": "How to Resolve Errors Encountered While Opening An Account on The Website",
+    "answer": "1. For “Validation/ Verification failed” error:; Please ensure that the Phone Number and Date of Birth you provided match your BVN and NIN records; 2. For “You are already an existing customer” error:; The phone number provided is already linked to an existing account.; To proceed with your account opening request, please visit a nearby branch to update your phone number.; Alternatively, you may call GTConnect at 08029002900, 08039003900, or 08139856000 for further assistance.; 3. For “ Duplicate/Invalid VNIN passed ” error:; The VNIN entered has been used, may have expired or is incorrect. To complete your request, kindly re-generate a new vNIN.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Change Your Internet Banking Secret Question",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Self Service >> Reset secret question and answer; Complete the displayed form with requested details (New question, New answer, Confirm new answer and Input Token code); Enter your Token’s One Time Password and click “Submit” to complete request; Timeline: Takes effect after 3 hours; GTWorld; Log in to the GTWorld app.; Click on the profile icon (top left corner); Scroll down to the Security Section; Select “Reset Secret Question” and click “Start”; Verify your identity and proceed.; Create a new secret question and answer, then click “Change”; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Change Your Online Banking Password",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Self Service -> Password Change; Complete the displayed form with the requested details (i.e. former password and new password); Click “Submit” to complete the password change process; GTWorld; Log on to GTWorld; Click the profile icon to the top left; Scroll down to the Security Section; Click “Change Password” and follow the prompts; Click ‘Proceed’; Enter the 6-digit code sent to your registered mobile number and follow the prompt.; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How to Use 737 Checkout",
+    "answer": "Dial *737*35*Amount* Merchant code#; Enter your 737 PIN; A receipt is generated for both parties",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How to select your 4 digit PIN on Bank 737",
+    "answer": "On your registered phone number, dial *737*5#; Input the last 6 digits of your active debit card; Create a new 4-digit PIN or reset your existing PIN; You will receive a confirmation message once the PIN is successfully created or reset",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Start Using the New GTWorld App",
+    "answer": "Download the GTWorld App from your app store, launch and follow the steps below.; For Existing Users; Input your registered phone number; Input the OTP received via SMS/Enter your hardware token or e-Token generated number; Enter your existing GTWorld password (from the old app); Please note that if this does not meet our new password requirements, you will be asked to create a new password and confirm it.; To onboard on the GTWorld application, please follow these steps below:; Download the GTWorld app from your device’s app store (Google Play Store or Apple App Store).; Install the app and input your phone number to receive an OTP, or select the Token option and enter the 6-digit OTP from your token device or E-Token app.; Enter your BVN/NIN details and complete the identity verification process.; Create a 6-digit password.; If You Encounter Issues:; If you are unable to complete the BVN/NIN validation, select “Use Secret Answer” .; If you cannot complete the identity verification process, select “I Can’t Take a Photo” and input the answer to your secret question.; Note:; Using the secret question option limits your daily transactions to N100,000 and weekly transactions to N700,000.; To remove these limits, click on the Profile Icon , select Limits , and choose Remove Limits . Enter your card details and PIN to proceed.; For PIN; Log in to the GTWorld app.; Click on the Profile Icon in the top left corner.; Scroll down to “Security” and select “Change Transaction PIN” .; Enter your phone number to receive an OTP, or select the \"Token\" option and enter the 6-digit OTP from your token device or E-Token app.; Provide the answer to your secret question and enter your new 4-digit PIN.; For Token; Click \"Token \"; Enter the OTP sent to your registered phone number or email address with the Bank; Click Continue; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Generate Soft Token via *737#",
+    "answer": "USSD; Dial *737*7# on your registered number; Enter your USSD transaction PIN to receive your token code; The token code is immediately displayed.; Note: Code can be used for all transactions that require soft token code and is only valid for 120 seconds Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Change Forgotten Online Banking Password",
+    "answer": "If you have forgotten your online banking password or secret question, please reset it using the following channels;; GTWorld; Launch the GTWorld App; Launch the GTWorld App; Click on ' Forgot Password ?'; Click on ' Forgot Password ?'; Click on \" Proceed \"; Click on \" Proceed \"; Enter the 6-digit code sent to your registered mobile number and follow the prompts; Enter the 6-digit code sent to your registered mobile number and follow the prompts; Visit the Internet Banking log in page; Input your USER ID; Click on \"Forgot Password?\"; Input the answer to your secret question; Select \"Continue\" and follow the prompts",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Check Status of Card Request",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/Email and Password; Click \"Cards\"; Click \"Card Enquiry\"; Card details and request status is displayed",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How to Use 737 Give",
+    "answer": "USSD; Dial *737*32*Amount* Church code#; Enter your 737 PIN; Your account is debited, and the church account is credited; NB: Both parties are notified of the transaction.; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Start Using GTWorld App",
+    "answer": "To onboard on the GTWorld application, please follow these steps below:; Download the GTWorld app from your device’s app store (Google Play Store or Apple App Store).; Install the app and input your phone number to receive an OTP, or select the Token option and enter the 6-digit OTP from your token device or E-Token app.; Enter your BVN/NIN details and complete the identity verification process.; Create a 6-digit password.; If You Encounter Issues:; If you are unable to complete the BVN/NIN validation, select “Use Secret Answer” .; If you cannot complete the identity verification process, select “I Can’t Take a Photo” and input the answer to your secret question.; Note:; Using the secret question option limits your daily transactions to N100,000 and weekly transactions to N700,000.; To remove these limits, click on the Profile Icon , select Limits , and choose Remove Limits . Enter your card details and PIN to proceed.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How To Transfer Money to a GTBank Account Via Mobile Number",
+    "answer": "On your registered phone number, dial *737*1*Amount*Recipient's Phone Number#; Confirm the recipient's name displayed on the screen; Enter your 737 PIN to authorize the transaction",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "E-Channels & 737",
+    "question": "How to renew your Startimes subscription",
+    "answer": "USSD; Dial *737*37*amount*smartcard no#; Enter the last four (4) digits of your debit card to validate the transfer; Your account is debited and Star times’ account is credited; Note:; The smartcard number is the decoder number; Both parties are notified of the transaction; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Card Services",
+    "question": "How to Opt Out of Automatic Card Renewal",
+    "answer": "The customer should send an email to cardsandproductdev@gtbank.com , providing their account number and indicating whether they would like to opt of card renewal or request a change of their pickup branch",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Card Services",
+    "question": "How To Hotlist Debit Card",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Cards -> Card Hotlist; Select card number and the reason for hotlisting; Review request; Provide the answer to your secret question and click \"Continue\"; Enter your Token's One Time Password and click \"Submit\"; GTWorld; Log on to GTWorld with Internet Banking User ID and Password; Click on ‘Account Details’; In the Cards section, select “Card”; Click ‘Block card’ and then, select reason for blocking card; Click ‘ Yes, block’; GTConnect; Dial +2348039003900, +2348029002900; Upon authentication, the agent proceeds to hotlist the card; USSD; Dial #737*51*10# using any GTBank account holder's registered phone number.; Input your account number; Press 1 to complete the request; Note: Customer may proceed with card replacement after the card's hotlisting.; Timeline: Immediately",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Card Services",
+    "question": "How to Change Card PickUp Branch",
+    "answer": "The customer should send an email to cardsandproductdev@gtbank.com , providing their account number and indicating whether they would like to opt of card renewal or request a change of their pickup branch",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Card Services",
+    "question": "How To Request For a Card Replacement",
+    "answer": "Note: Active cards must be hotlisted before initiating a request for card replacement; Internet Banking; Log on to Internet Banking with your User ID/Email and password; Click Cards -> Card Replacement -> New Request; Complete the displayed form with the required details transaction; Click on the \"click here to agree\" checkbox (to accept our card replacement terms and conditions); Provide the answer to your secret question and click \"Continue\"; Enter your Token's One Time Password and click \"Submit\"; Timeline: Produced card will be available for pick-up in three (3) days for Lagos branches and three to five (3-5) days for up-country branches.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Card Services",
+    "question": "How to Request For a Dollar Card",
+    "answer": "Internet Banking; Log on to Internet Banking with your User ID/email and Password; Click on the \"Cards\" option on the menu bar; Click on \"Dollar Card Request\"; Click on \"New Request\"; Complete the displayed form with details such as \" Pick up branch\", \"Account to debit\", \"Account to charge\" etc.; Select the \"Answer to your secret question\"; Click \"Continue\"; Enter generated Token code; Click the \"Submit\" button to conclude the request for your Dollar Card.; Timeline: 3 working days for Lagos branches and 3-5 days for upcountry branches.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "What is the GTBanks' NRN service?",
+    "answer": "The Non Resident Nigerian service offering is a platform for Nigerians who reside outside the country to have access to the wide range of products and services the Bank presently offers",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "What documents are required to open an NRN account?",
+    "answer": "You will need the following documents to apply for an NRN account:; a. Duly completed NRN Account Opening Form; b. Your passport photo with full face forward; c. A copy of any of the following means of Identification:; Valid Nigerian International passport with your National Identification Number (NIN) captured on it; National ID; Visit NIMC (See https://nimc.gov.ng/nimc-enrol... for list of enrolment centres); d. Copy of any of the following as a proof of address:; Notarized utility bill, OR; Stamped bank statement issued within three months showing customer's foreign address, OR; Notarized lease of agreement showing customer's foreign address, OR; Notarized tax bill issued within the last 1 year showing customer's foreign address, OR; Notarized valid foreign I.D that has the customer's names and foreign address (separate from the ID provided as means of I.D verification), OR; Notarized foreign driver's license showing customer's foreign address, OR; Notarized tenancy agreement/rent receipt, OR; Notarized letter from Multinational, Oil and Gas, Energy companies.; e. Reference (either (i) or (ii) below) – For Current and/or Domiciliary accounts.; (i) Two completed reference forms from Current account holders (Nigerian) with any Nigerian Bank. (ii) One reference letter obtained from a current banker/Banker’s confirmation and one reference letter obtained from a current account holder (Nigerian) with any Nigerian bank; f. For Joint accounts, a copy of your marriage certificate is required.; PS: Documents that require notarization can be certified as a true copy of the original by a Notary Public or a Lawyer or by the Nigerian embassy or a Post Office or a GTBank Subsidiary staff",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "What electronic channels and services are available to NRN customers",
+    "answer": "The following electronic channels are available to the NRN customer:; i. Card services:; • MasterCard (USD and Naira denominated); • Visa Card (USD denominated); ii. GTWorld App; iii. NRN Support Group which is open for business 24 hours a day, seven days a week (Including public holidays); The NRN Support Group offers the following services:; • Account update; • Pre-registered transfer requests; • Proxy pick-up of cards; • Courier delivery of cards; • Reactivate dormant accounts; • Video Banking services; iv. Internet Banking:; The NRN customer with an internet banking password can do the following via the GTBank Internet Banking platform; • View real time account balances and track up-to-the minute transactions on their accounts; • Set up a standing order instruction to transfer funds to other accounts within GTBank and other Banks in Nigeria (Direct debit).; • Transfer funds to beneficiaries with GTBank accounts or accounts in other banks via NEFT; • Confirm cheques online and such confirmations are automatically registered on the Banking Application; • Request for cheque books; • Print Statement of account in PDF format or export to MS Excel format; • PIN change: Users can change their login PIN (password) at any time; * All identification documents, Bank or Credit Card statement issued within the last three-months, and utility bills (if foreign) must be notarized by a notary public, sighted at the Nigerian Embassy or by an officer at GTBank",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "Do NRN customers who have an account with GTBank UK require references to open an NRN account?",
+    "answer": "No, NRNs who have current accounts with GTBank UK do not require References to open NRN accounts.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "Do NRN customers who visit the country still have to notarize their documents?",
+    "answer": "No, they do not. Sighted copies of these documents by a GTBank staff is acceptable",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "What is the role of the banker's confirmation in the NRN aacount opening process?",
+    "answer": "A stamped Banker’s confirmation stating the customer’s address serves as a proof of address and a reference at the same time. Therefore, customers who provide this will not need to provide a reference or utility bill.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "Can Corporate accounts be opened for Non Resident Nigerians under the NRN service platform?",
+    "answer": "No, the NRN service is offered only to individuals and not to businesses. The customer will however be referred to the SME team.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "Can NRN customers who reside in London submit their account opening package in GTBank UK",
+    "answer": "Yes, these customers can visit GTBank UK for the submission of their NRN account opening package. They can also have their documents sighted by a GTBank UK officer in our London office.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How can NRN customers fund their accounts?",
+    "answer": "Transferring funds directly from their foreign Bank account into their GTBank Domiciliary account.; Paying in Cheques and cash into their GTBank Naira account and cash (foreign currency) into their GTBank Domiciliary account in any GTBank Branch in Nigeria.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "What are the services available to an NRN customer on this platform?",
+    "answer": "An NRN customer can access the following products and services: • Domiciliary account (available in Dollars, Pound sterling and Euro) • GTMax account (Naira) • Savings account (Naira) • Investments • Fixed deposit ( USD, Pounds and Naira)",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "Can NRN customers lodge cheques and dividend warrants into their NRN accounts?",
+    "answer": "Yes, local cheques and dividend warrants can be lodged into the customer’s account through any of the bank branches in Nigeria",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "Who are the target customers for the NRN service offering?",
+    "answer": "All Nigerians who reside outside the country for more than 180 days in a year.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I get the Internet Banking Service?",
+    "answer": "The Internet Banking Service is profiled to every new account opened, however, please consult with an NRN Support agent for assistance.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I get my login details?",
+    "answer": "The username and password are system generated for confidentiality and sent to your registered e-mail address with the bank; please ensure your e-mail address is correctly profiled on your account. You will also be prompted to set a secret question and answer. You may contact the Bank on +234 201 448 1300, +234 201 448 1400, +234 813 985 6001, +234 813 985 6002 if you do not receive the notification sent you.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I update/reactivate my account?",
+    "answer": "• Fill the NRN update/reactivation form.; • Provide a recent notarized utility bill or stamped bank statement (issued within the last 3 months) showing your address abroad.; • You can notarize seamlessly at www.notarycam.com/gtbank. You may also choose to notarize with a lawyer, court, post-office or the Nigerian embassy.; • Provide the data page of any of your Nigerian Regulatory issued ID (International passport that captured your NIN, or National ID); • Banker’s confirmation/Reference letter issued from your foreign bank; • A recent communique on \"EU General Data Protection Regulation\" requires that you fill our data consent form. This form is to be completed by residents in Europe while the bank files for future purpose and in line with EU General Data Protection Regulation.; • All documents alongside the form should be sent to nrnaccount@gtbank.com",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I request to have my card couriered?",
+    "answer": "• Fill the Account collectible and indemnity form.; • Naira card issuance fee is N1, 050 (VAT inclusive).; • Dollar Card costs N1,050 or equivalent in Dollar (issuance fee) + annual maintenance fee $10 or equivalent in Naira.; • Courier charge varies with location.; • All documents alongside the form should be sent to nrnaccount@gtbank.com",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I request for proxy pick-up of my card?",
+    "answer": "• Fill the Account collectible and indemnity form for proxy pick up. • Provide a signed written instruction addressed to the bank which should state your account number and name, the pickup branch you want proxy to visit, the valid means of ID of proxy and the proxy’s name. • All documents alongside the form should be sent to nrnaccount@gtbank.com",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I request for reference letter?",
+    "answer": "• Provide a signed written instruction addressed to the bank requesting for a reference letter and indicating the institution you want it addressed to, the pickup branch you want proxy to visit, the valid means of ID of proxy.; • Provide the data page of any of your Nigerian Regulatory issued ID (International passport, driver’s license, national ID etc), or provide your notarized foreign regulatory ID card.; • The reference letter cost N500.; • Send to nrnaccount@gtbank.com OR Visit the Internet Banking platform to apply for a Reference letter and have it sent to your registered email address",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I add a signatory on my account?",
+    "answer": "• Provide a signed instruction addressed to the bank indicating your account details, name of the new signatory, means of regulatory ID of the new signatory, the signatory mandate (either or both to sign), the branch the signatory will visit (if different from your domicile branch).; • Provide the data page of any of your Nigerian Regulatory issued ID (International passport, driver’s license, national ID etc), or provide your notarized foreign regulatory ID card.; • If additional signatory is not in the country, he/she would fill the mandate form and provide a valid ID.",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I deactivate SMS alert?",
+    "answer": "Fill the GENs indemnity form and send to nrnaccount@gtbank.com",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I request for my dividend to be paid into my account?",
+    "answer": "• Contact your registrar and request for the E-dividend form. • Provide a recent passport photograph. • Send to nrnaccount@gtbank.com",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "GTBank",
+    "category": "Non-resident Nigerian",
+    "question": "How do I report an International dispense error",
+    "answer": "• Fill a card dispute form.; • Send to nrnaccount@gtbank.com",
+    "source_url": "https://www.gtbank.com/help-centre",
+    "scraped_at": "2026-09-02"
+  }
+]

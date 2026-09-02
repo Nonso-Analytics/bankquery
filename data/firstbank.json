@@ -1,0 +1,2634 @@
+[
+  {
+    "bank": "First Bank",
+    "category": "Savings Account",
+    "question": "How can I open this account?",
+    "answer": "Simply visit any FirstBank branch nearest to you.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Savings Account",
+    "question": "Can I make transactions on my account from any FirstBank branch?",
+    "answer": "Yes, you can.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstInstant",
+    "question": "What kind of identification is required to open a FirstInstant Account?",
+    "answer": "No means of identification is required, all that is required is a passport photograph.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstInstant",
+    "question": "Is there any incentive for obtaining the Debit Card?",
+    "answer": "Yes, it is obtained at a discounted rate.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstInstant",
+    "question": "Are references required for a FirstInstant Account?",
+    "answer": "No references are required to open this account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "KidsFirst",
+    "question": "Do I need references for a KidsFirst Account?",
+    "answer": "References are not needed for this account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "KidsFirst",
+    "question": "Is it mandatory to have a Debit Card for the KidsFirst Account?",
+    "answer": "A debit card is only issued to the parent/guardian if they should you request for one.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "KidsFirst",
+    "question": "What will happen to the KidsFirst Account when the child becomes 13 years old?",
+    "answer": "The KidsFirst account is automatically converted to a MeFirst Account (FirstBank’s account for teenagers).; The KidsFirst account is opened and operated by the parent/guardian, giving you total control over the financial security of your child/ward.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "MeFirst",
+    "question": "What category of youth is the MeFirst account designed for?",
+    "answer": "It is designed for Teenagers between 13 and 17 years",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "MeFirst",
+    "question": "Who operates a MeFirst Account?",
+    "answer": "The MeFirst account is opened and operated by the parent/guardian, giving them total control over the financial security of the child/ward.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "MeFirst",
+    "question": "Can I get a special card on this account to give to my Child?",
+    "answer": "There are five variants of special prepaid cards to select from, designed for young adults between ages 13 to 17.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "XploreFirst",
+    "question": "At what stage do I qualify to have an XploreFirst Account?",
+    "answer": "You qualify to have an XploreFirst account between the ages of 18 – 29 years, and you also qualify by being a student of any of the tertiary institutions.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "XploreFirst",
+    "question": "What do I need to do to qualify for the Xplorefirst Annual scholarship?",
+    "answer": "You stand a chance to win up to N150,000 Naira in scholarships at a raffle draw by maintaining an average account balance of N10,000 for six months",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "XploreFirst",
+    "question": "Can an XploreFirst account be opened with my student Identity card?",
+    "answer": "An XploreFirst account can be opened with a valid student Identity card with a copy of the school admission letter attached.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "XploreFirst",
+    "question": "Can I get a debit card on my XploreFirst account?",
+    "answer": "Yes, you can get any of the Bank’s Debit cards including a Customized debit master card (expressions card) with your picture boldly printed on it.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSavings Plus",
+    "question": "How Do I open a FirstSavings Plus Account?",
+    "answer": "To open an individual FirstSavings Plus Account, you need to fill Account opening form, sign Specimen signature cards, two (2) passport photographs, two independent satisfactory references, utility bill, valid means of identification such as Driver license or international passport.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSavings Plus",
+    "question": "Who can operate a FirstSavings Plus Account?",
+    "answer": "FirstSavings Plus account is open to all except minors as long as the requirement for opening the account is met by the prospective customers.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSavings Plus",
+    "question": "Can I use a FirstSavings Plus account as a salary account?",
+    "answer": "Yes, it can be used as a salary account but the N50,000 minimum operating balance still subsists.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSavings Plus",
+    "question": "How does FirstSavings Plus Account operate?",
+    "answer": "FirstSavings Plus account operates with a flexibility of a current account. It allows issuance of cheques that are not valid for clearing but can be cashed over the counter. It also allows lodgement of third party cheques into the customer’s account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Current Account",
+    "question": "Who is eligible to open this account?",
+    "answer": "Both individuals and Corporate organisations.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Current Account",
+    "question": "What charges are applicable to this account type?",
+    "answer": "N1/Mille Account Maintenance Fee is applicable.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstCurrent Business",
+    "question": "What is the FirstCurrent Business Account all about?",
+    "answer": "It’s a new current account designed to cater for business needs of small and medium-scale enterprises. It allows unlimited transactions without paying COT.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstCurrent Business",
+    "question": "Since this account does not attract COT, are there other charges to be paid by customers?",
+    "answer": "The First Current Business Account allows payment of a monthly fixed charge depending on the particular variant subject to a prescribed minimum account balance and maximum debit turnover.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstCurrent Business",
+    "question": "If a customer exceeds the prescribed maximum monthly debit turnover limit allowed on the Account, is there any penalty for the violation?",
+    "answer": "Yes. The customer pays COT at N3/mille on the excess amount over the prescribed debit turnover limit.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstCurrent Business",
+    "question": "Can a customer of FirstCurrent Business Account use it to access a loan from the Bank?",
+    "answer": "The First Current Business Account is a non-borrowing account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstCurrent Business",
+    "question": "Are references required to open FirstCurrent Business Account?",
+    "answer": "Yes. The requirements for opening the generic current also apply to the First Current Business Account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Domiciliary Account",
+    "question": "In what currencies can the account be opened?",
+    "answer": "Pounds Sterling, US Dollars and Euro",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Domiciliary Account",
+    "question": "Is there a restriction to number of withdrawals?",
+    "answer": "There are no restrictions to number of withdrawals",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "Is First Dom Plus the same thing as your Domiciliary Account?",
+    "answer": "They are two different accounts with different features and benefits.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "How much do I need to open this account?",
+    "answer": "The minimum opening/operating balance for this account in 3 major currencies are: $5,000.00; €5, 000.00; £3, 000.00",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "What is the interest rate applicable on First Dom Plus Account?",
+    "answer": "Applicable interest rates are based on deposit buckets as follows:; $5,000 – $9,999 at 0.50% per annum; $10,000 – $49,999 at 0.75% per annum; $50,000 – $99,999 at 1.00% per annum; $100,000 – Above at 2.00% per annum",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "Can I migrate my existing domiciliary account to FirstDom Plus Account?",
+    "answer": "Yes you can, as long as you are able to increase your existing balance to the minimum opening balance.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "Will I still retain my account number when I migrate to the FirstDom Plus Account?",
+    "answer": "Your account number will be changed because the two products are different",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "Who is eligible to open FirstDom Plus account?",
+    "answer": "Individuals and corporate organisations",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstDom",
+    "question": "Apart from the higher interest paid on this account, are there other benefits available when I open this account?",
+    "answer": "Yes. Any cash withdrawal on the account is free of charge. Withdrawals from any FirstBank branch are allowed. Account holders with balances $30,000 and above pay ≤ 0.25% transfer charges.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSME Classic",
+    "question": "Can individuals open this account?",
+    "answer": "No, the FirstSME Current account is meant for Small & Medium Scale Enterprise Customers.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSME Classic",
+    "question": "Can a customer convert existing individual current account to FirstSME?",
+    "answer": "No, the FirstSME Current account and Individual current account have different scheme codes.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSME Classic",
+    "question": "Can the FirstSME account be opened associations, family accounts and non-registered non personal accounts?",
+    "answer": "Yes, it can be opened to these sets of customers.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstSME Classic",
+    "question": "Is the FirstSME current be opened for new customers or is it strictly for existing Corporate customers with Savings account who has been advised to migrate to current account?",
+    "answer": "Yes, the FirstSME Current account can be opened for new customers and No, it is not strictly for existing corporate customers with savings account who has been advised to migrate to current account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Fixed Deposit Account",
+    "question": "What is the tenor for fixed deposit?",
+    "answer": "It varies between 30 days and 360 days.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Fixed Deposit Account",
+    "question": "Can the investment be rolled over?",
+    "answer": "Yes, based on an instruction from the customer.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Fixed Deposit Account",
+    "question": "Can the investment be terminated before maturity?",
+    "answer": "Yes, investment can be terminated before maturity; however a portion of accrued interest will be forfeited.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPremium Term Deposit",
+    "question": "What is the minimum and maximum tenor for a First Premium Term Deposit?",
+    "answer": "The minimum tenor is six (6) months and the maximum tenor is one year, subject to rollover.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPremium Term Deposit",
+    "question": "Can interest be earned monthly on the First Premium Term Deposit?",
+    "answer": "Interest can only be earned after 6 months, either as terminal interest for the 6-month variant or as semi-annual interest for the 1 year option.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPremium Term Deposit",
+    "question": "Can the First Premium Term Deposit investment be liquidated at any time?",
+    "answer": "Yes, it can be liquidated at any time; however, the special interest offer is forfeited, and the interest reverts to the Bank’s premium savings interest rate (presently 2% p.a.).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "What is FirstDiaspora?",
+    "answer": "FirstDiaspora is an offering from first bank which is specially designed for Nigerians living abroad by providing them a platform to have easy access to a wide range of products and services that will take care of their banking needs.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Who is eligible to open a FirstDiaspora account?",
+    "answer": "Any Nigerian living abroad can open a FirstDiaspora account and enjoy all its benefits.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "What Type of products and services are available in FirstDiaspora?",
+    "answer": "Our array of products and services include but not limited to:; FirstDiaspora Savings Account; FirstDiaspora Savings Plus Account.; FirstDiaspora Kids First Account (for Kids 0-12years); FirstDiaspora Current Account.; FirstDiaspora Term or Fixed Deposit Account (in NGN, USD, GBP and EUR); FirstDiaspora Domiciliary Account (in USD, GBP, EUR and CFA); FirstDiaspora Corporate Account. (in NGN, USD, GBP and CFA); E- Channel Offerings e.g Online Banking, Mobile Banking, E-mail alerts etc.; Transfers, Standing Orders; Account Reactivation; Migration of existing accounts; Treasury Bills; Advisory Services, etc.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "What documents are required to open a first diaspora account?",
+    "answer": "The following documents are required to open any regular FirstDiaspora account.; a. Duly filled account opening form; b. Duly filled E-mail Indemnity form.; c. Two Passport photographs showing full face forward with a bright background.; d. Valid Proof of Identification of the signatory ( Please see below list of valid means of ID ):; Nigerian International Passport; Nigeria Driver’s license; Nigeria Voters ID card; Foreign passport (if place of birth is Nigeria); Residence or Work permit (if nationality is Nigeria.; e. Documentary evidence of Foreign Address. The Foreign address of the applicant must be clearly stated on the preferred proof of address. Examples of ideal proof of address include but not limited to:; Current utility bill not exceeding 3 months; Foreign Bank statement; Foreign driver’s license; Purchase invoice or Receipt; Tenancy agreement /rent receipt; Letter from Multinational, Oil and Gas, Energy companies (a lot of these companies do provide accommodations for their expatriates as part of their relocation packages).; f. Two (2) Nigerian bank references from current or corporate account holders in any Nigerian bank; *for current, domiciliary and corporate accounts only; g. BVN (Bank Verification Number) – A unique bank identification number.; h. Attestation/Notarization of the ID card and Proof of Address at any of the centers below:; Notary Public/court/ lawyer/Solicitor; Nigerian Embassy/High commission/Consulate in your country.; Your Foreign bankers; Police Station.; Government Security Agencies.; Commissioner for Oaths; Director of Students Affairs (if customer is a student); Our Rep Office staff or First Bank staff that knows customers.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "What is BVN and how do I get enrolled?",
+    "answer": "BVN is an acronym for Bank Verification Number. It is a unique identification number that all Nigerian account holders and intending ones, irrespective of your bank, must enroll for as stipulated by CBN. Your unique features such as picture, finger prints, Valid ID card and other important details will be taken during registration exercise so it is important that you are physically present.; To enroll for the Bank Verification Number (BVN) exercise, kindly visit https://nibss-plc.com.ng/bvn/#enrollment-1 for details of enrolment centers in the Diaspora, enrolment can equally be done in Nigeria during your visit. Also be informed that intending FirstDiaspora customers can open Diaspora accounts without BVN however, the BVN has to be provided as soon as possible to allow the customer operate the account fully. BVN is only done once.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "I had an existing account before I relocated; can I still operate the same account as a FirstDiaspora account?",
+    "answer": "Yes, you can operate the same account as a FirstDiaspora account but you will have to convert the account to a FirstDiaspora account and update your current foreign details by filling the necessary forms and providing a notarized copy of your Valid ID card and Proof of Address as stated above in option 4.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How do I send all the necessary forms for my request to be treated after filling them?",
+    "answer": "The copies should be scanned and sent via email to diasporabanking@firstbanknigeria.com while the hard copies should be sent to our Diaspora Department situated at First bank head office, 2 nd floor, No 35 Marina, Lagos Island, Lagos state, Nigeria.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How can I access my account abroad?",
+    "answer": "You can access your account from abroad through any of the following channels; a. ATM Cards : Through our Naira master cards, Dollar Visa debit card and prepaid cards, you can access your naira and/or dollar accounts through ATMs, POS and WEB anywhere in the world.; b. Online banking : Access your account online real time, 24 hours of the day through our internet banking option and transfer funds within any bank in Nigeria, pay your bills, set up standing orders and do much more. However, a physical token device will be required for effective transfers and bill payments.; c. Mobile banking : Access your account through your phone by downloading our safe and secure app and follow the steps to register your account (Conditions apply).; d. Email alert : Get alert notification via email or sms alert once any transaction is done on your account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Can I open a FirstDiaspora account and set up E-Banking access when I visit Nigeria?",
+    "answer": "Yes, you can open any type of first diaspora account whenever you are in Nigeria but you must provide a copy of your foreign proof of address and valid ID. The first bank staff will attest the originals at the point of opening the account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Can I open a FirstDiaspora corporate account from abroad?",
+    "answer": "Yes, you can open a diaspora corporate account conveniently. In addition to the above requirements, you will also provide all the registered documents given to you at the time of registering the company with CAC in Nigeria, Board Resolution, TIN (tax identification number) and 2 valid references from a corporate account holder in any bank in Nigeria. You can contact our office for more information via the contact details in option 22 or send a mail to diasporabanking@firstbanknigeria.com",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Can I visit any of your bank REP offices if available in my location for the submission of my documents?",
+    "answer": "Yes, you can visit any first bank rep offices if available in your location for the sighting and attestation of your documents and onward submission to the diaspora office in Lagos.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How can FirstDiaspora customers fund their accounts?",
+    "answer": "You can fund your diaspora account via:; Direct transfer from any CBN recognized money transfer operators and/or from your foreign bank accounts to both your naira and Dom account In Nigeria; Direct cash or cheque lodgment to your account from any first bank branch in Nigeria by a third party.; Fund transfer from any account holder or third party via any bank in Nigeria.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Is there any limit to the amount I can transfer to my account from abroad?",
+    "answer": "There is no limit to the amount of money you can transfer from abroad to any type of FirstDiaspora account you open. The account can take any amount.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Is there any limit to the amount I can transfer from my FirstDiaspora account via internet or mobile banking platform to beneficiaries in Nigeria?",
+    "answer": "Yes, First bank has a daily limit of 1M Naira per day on individual account and 10 M Naira per day on corporate account with the use of token device. However, you can increase the limit by filling an online limit increase indemnity form to the amount of your choice.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How can FirstDiaspora customer get the first bank internet banking service and email alerts?",
+    "answer": "Internet banking access and email alerts are profiled for new accounts by default while existing customers can fill out the required forms after the existing account has been migrated to the FirstDiaspora account. Your internet log in details (user ID and password) are confidential and sent directly to your registered email with the bank however you can reach us through First contact or via our email in case of any delay.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "I forgot my internet log in password or I have any issues trying to set up the internet banking, what do I do?",
+    "answer": "You can call our 24 hour Firstcontact center, or send a mail to diasporabanking@firstbanknigeria.com for assistance.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How do I apply for my ATM card and Token device?",
+    "answer": "A FirstDiaspora customer can apply for visa card (for dollar account), master card (for naira account), prepaid cards and Token device by filling the ATM Card/ Token application form and sending a scanned copy to diaspora email address for further processing.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How can a FirstDiaspora customer pick up the requested ATM card and token device?",
+    "answer": "Your ATM card and token will be dispatched to your registered address abroad via DHL at a cost. Also note that you can equally pick up the ATM card and token during your visit to Nigeria.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How can a FirstDiaspora customer get his or her ATM pin for the ATM card?",
+    "answer": "Depending on the type of card the customer wants, he can either get a third party ( with indemnity in place for third party activation) to activate the card on his behalf before dispatch or the card and pin must be dispatched separately for security reasons.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Can I easily get a card or token replacement in case of damaged or lost token?",
+    "answer": "Yes, you can easily get a replacement card or token by filling the necessary forms and paying the associated cost for such a replacement.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Is there any charge for converting my existing account to a FirstDiaspora account?",
+    "answer": "There are no charges associated with converting your existing account to a diaspora account. However, there is a minimum balance requirement of 5,000 Naira for all Diaspora Savings account. See more features and benefits of our various accounts on our website.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "What are Tax forms and why do I need to fill them?",
+    "answer": "The tax forms are made up of three forms which are (FATCA, Account Opening form Supplement and the Tax self-certification forms for individual accounts). Customers living in America must fill all three forms while other regions fill all forms except the FATCA form. This is now required by FIRS tax body In Nigeria who is a member country of the international body for tax rendition called Common Reporting standard CRS to ensure that eligible customers living abroad also pays their taxes.; More information is stated in the form.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "I am unable to receive my OTP for mobile app set up.",
+    "answer": "To set up your mobile app, kindly ensure you have a valid ATM card (master card or verve card) and receive email or SMS alert notification on your registered email address or phone number with the bank. If you still do not receive the OTP to your phone as SMS, you can apply to receive the OTP to your email address by filing out the Email OTP indemnity form in the form section on this webpage and forward the filled form to any of the email addresses below in the last FAQ option.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "Some notable Charges on First Bank accounts",
+    "answer": "Stamp duty charge on every transaction above 10,000 – This is a CBN stipulated charge for any credit into savings or current account above =N=10,000. The stamp duty charge is only chargeable for any credit into your account and not cash paid out, it costs 50 Naira for each cash received.; VAT on fees – Every commission / fee taken by the Bank is subject to 7.5% VAT as stipulated by the Nigerian government.; NMC Card Maintenance- This is a CBN stipulated charge of 50 naira charged quarterly for ATM card holders (verve or Mastercard) and 10 USD annual fee on visa multicurrency card.; Account Maintenance Charge- AMC is new acronym for COT and it is 1% of the total amount withdrawn from a current account monthly.; FIP Charges – This is a CBN stipulated charge for transfers to other banks (50k and above cost 52.50k) (between 10k and =N=49,999 cost 26.88k ) and ( amount less than 10k cost 10.75k).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "What other means can I open a diaspora account if I do not wish to fill out forms manually?",
+    "answer": "You can open diaspora account through the portal on our website or through OIS BVN registration center in your country however both processes are still on-going for now and should be concluded before end of 2021.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Diaspora Account",
+    "question": "How can I contact Diaspora Banking Team?",
+    "answer": "You can send a mail to the email addresses or call the numbers below. You can equally Log your enquiries, complaints, feedback and suggestions in the section provided on our website.; diasporabanking@firstbanknigeria.com; diasporabankingunit@firstbanknigeria.com; Phone number1 …. +23419051349; Phone number2 …. +23419052743; Phone number 3……+23419052700.; Also contact us via the following email addresses depending on your country of residence.; Diasporabankingeurope@firstbanknigeria.com (for customers in the United Kingdom and other European region); Diasporabankingamericas@firstbanknigeria.com (for customers in America and Canada region); Diasporabankingaaa@firstbanknigeria.com (for customers in Africa , Asia , Australia/ New Zealand region)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Infinite",
+    "question": "Is the Visa Infinite card a Debit or a Credit card?",
+    "answer": "The Visa Infinite is offered as either a Credit Card or Debit card.; For Credit Card variant, client provides collateral value up to 120% of the credit limit sought.; For Debit Card variant, client enjoys the flexibility of funding card account as and when required.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Infinite",
+    "question": "Target Market?",
+    "answer": "Owners/ MDs of organisations and conglomerates that meet the minimum qualifying criteria; High Net Worth Individuals; Ultra-high net worth individuals",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Infinite",
+    "question": "Cost of issuance of Visa Infinite Card and associated fees",
+    "answer": "Card joining/Reissue Fee: $3; Annual Maintenance Fee: $20 (Taken upfront); Interest Fees: 2.5% flat (Outstanding Balance); Default Fee: 0.25% flat per month; Card Replacement Fee: $3; Supplementary Card Fee: $3; PIN Re-issue Fee: $2; POS & Web Fee: Free; ATM Withdrawal Fee: $3; POS Cash Advance Fee: $3+1%",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Infinite",
+    "question": "Will a lien be placed on my US Domiciliary account with respect to my desired limit on the Visa Infinite Card?",
+    "answer": "Yes, a lien of 120% will be placed on USD, GBP or EURO account to secure the funds throughout the tenor of the card",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Infinite",
+    "question": "What are the daily usage limits for my Visa Infinite card?",
+    "answer": "ATM cash withdrawals – $1,000 (total frequency – 5 times); Purchases (POS) – $25,000 (total frequency – 20 times); Purchases (Internet) – $25,000 (total frequency – 5 times)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Infinite",
+    "question": "How long would it take for my Visa Infinite card to be ready for collection, after I submit my application?",
+    "answer": "For Lagos branches, the Visa Infinite Card will be ready for collection 2 business days after application. While for upcountry branches, Visa Infinite Cards will be ready for collection 5 business days after application. Please visit a FirstBank branch to apply. Compulsory hold amount on card is $100.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira Credit Card",
+    "question": "How is interest calculated on my Naira Credit Card?",
+    "answer": "Interest is calculated on the outstanding balance on your credit card i.e. after making the minimum repayment, 2.5 % interest is calculated on the unpaid balance.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira Credit Card",
+    "question": "Is the Naira Credit Card only available to salary earners?",
+    "answer": "Investment holders (Fixed Deposit, Treasury Bills & CASA) who are ready to use their investment as collateral for cash backed NCC. 120% of availed credit limit is to be liened throughout the tenor of the card.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira Credit Card",
+    "question": "How do I get the Platinum Naira Credit Card?",
+    "answer": "The Platinum Naira Credit Card is the premium version of the NCC card variant.; A credit limit of N1,000,000 and above qualifies you for a Platinum Naira Credit Card which affords you more premium benefits.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira Credit Card",
+    "question": "What are the fees associated with the Naira Credit card?",
+    "answer": "Issuance fee – N1,000; Annual maintenance fee – N600 i.e. N50/Month; Insurance Fee – N1,500; Purchase fee (POS, Internet) – Free; Web fee – Free; ATM withdrawal fee – 3%; Card Replacement Fee – N1,000; Interest Fee – 2.5%",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Gold",
+    "question": "Is the Visa Gold card a Debit or a Credit card?",
+    "answer": "The Visa Gold card has both the credit variant and self-funded variant. The credit variant is cash-backed and the limit assigned is determined by the collateral cover. The customer spends ONLY the amount he pays into his card with the self-funded Visa gold card.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Gold",
+    "question": "What are the fees associated with the Visa Gold card?",
+    "answer": "Issuance fee – $3; Annual Maintenance Fee- $20 taken upfront at issuance; Purchase fee (POS, Internet) – Free; Web fee – Free; ATM withdrawal fee – $3; Card Replacement Fee – $3",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Gold",
+    "question": "Will a lien be placed on my US Domiciliary account with respect to my desired limit on the Visa Gold card?",
+    "answer": "No. You would, however, be required to always maintain a minimum operating balance of $40 in your Visa Gold Card account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Gold",
+    "question": "What are the daily usage limits for my Visa Gold card?",
+    "answer": "ATM cash withdrawals – $1,000 (total frequency – 5 times); Purchases (POS) – $10,000 (total frequency – 20 times); Purchases (Internet) – $5,000 (total frequency – 5 times); POS Cash Advance (Branch) – $5,000; POS Cash Advance (Merchant) – $5,000; The above limits are subject to a daily cumulative limit of $10,000.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Gold",
+    "question": "How long would it take for my Visa Gold card to be ready for collection, after I submit my application?",
+    "answer": "For Lagos branches, the Visa Gold Card will be ready for collection 2 business days after application. While for upcountry branches, Visa Gold cards will be ready for collection 5 business days after application. Please visit a FirstBank branch to apply. Compulsory hold amount on card is $40.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira MasterCard",
+    "question": "How do I activate my Naira MasterCard?",
+    "answer": "Activate your Naira MasterCard by selecting your preferred PIN (Personal Identification Number) on the Customer PIN Selectable Machine’ at our Customer Service Desk before leaving the branch OR visit any FirstBank ATM to perform PIN change.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira MasterCard",
+    "question": "How many accounts can be linked to my Naira MasterCard?",
+    "answer": "Your Savings and/or Current Account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira MasterCard",
+    "question": "How long will it take to get my Naira MasterCard after submitting my application?",
+    "answer": "15minutes from when your application is received.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Naira MasterCard",
+    "question": "Can my Naira MasterCard be used to make purchases on the internet?",
+    "answer": "Yes, your card can be used on millions of websites that accept MasterCard for payment.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve",
+    "question": "Can FristBank Verve Cards work on the web?",
+    "answer": "Yes, but only on websites bearing the Interswitch or Verve acceptance logo",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve",
+    "question": "How do I activate my FirstBank Verve Card?",
+    "answer": "Activate your Verve card by selecting your preferred PIN (Personal Identification Number) on the Customer PIN Selectable Machine’ at our Customer Service Desk before leaving the branch OR visit any FirstBank ATM to perform PIN change",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve",
+    "question": "Can I use my FirstBank Verve Card to shop on all websites (domestic and international)?",
+    "answer": "Verve card works only on “domestic” websites bearing the Interswitch or Verve acceptance logo",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve",
+    "question": "What is my PIN?",
+    "answer": "PIN stands for “Personal Identification Number”. It is the four-digit number known only to you and used to complete transactions on ATMs and other pertinent payment devices.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve",
+    "question": "How do I shop on the web?",
+    "answer": "Select the item you wish to purchase, proceed to ‘Checkout’, provide your Verve card number, provide your Expiry date, provide the CVV number (the last three digits appearing on the back of your card, beside the signature panel), and input your PIN using the secure keypad displayed on your screen.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve",
+    "question": "How do I protect my FirstBank Verve card from fraud?",
+    "answer": "Do not disclose your PIN to anyone; Keep your card safe and out of sight and reach of others",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "What is a Platinum Debit MasterCard?",
+    "answer": "The FirstBank Platinum Debit MasterCard is a Premium debit card denominated in Naira and issued in partnership with MasterCard Worldwide. It is linked directly to a customer’s Naira denominated Current and/or Savings account. This product, which is a higher variant of the Naira MasterCard, is aimed at giving high net-worth customers enhanced value and experiences worldwide.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "What is the card issuance fee for the Platinum Debit MasterCard?",
+    "answer": "N1,000",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "What is the minimum account balance at the point of card issuance?",
+    "answer": "N50,000. This is required as the point of processing the card request.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "Is the Platinum Debit MasterCard open to all customers?",
+    "answer": "This is strictly by invitation.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "What is the difference between the Naira MasterCard and the Platinum Debit MasterCard?",
+    "answer": "The Naira MasterCard and Platinum Debit MasterCard offer customer access to their Naira savings/current account for local and international use. However, the Platinum Debit MasterCard is designed for HNI customers desiring to carry a card that befits their status and differentiate them from the mass market. This product provides them a platform to enjoy premium offerings and value added services from MasterCard worldwide.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "What are the benefits of the Platinum Debit MasterCard?",
+    "answer": "Higher daily limits while transacting at various channels.; Complimentary access to a concierge service 24 hours, 7 days a week; Special access to some elite airport lounges; Emergency Assistance.; Purchase and Fraud protection – shop with confidence, knowing that all your transactions have theft and damage insurance.; MasterCard Moments – access to exclusive shopping experience, for travel, dining, shopping and other lifestyle privileges. Visit the MasterCard moments website ( www.mastercardmoments.com )",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Platinum Debit MasterCard",
+    "question": "What are the transaction fees for this product?",
+    "answer": "Web Purchase Fee: Free; POS Purchase Fee: Free; ATM Withdrawal Fee: N1,000 (International only); PIN Re-issue Fee: Free.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the Visa Debit Multi-Currency Card issuance fee?",
+    "answer": "N1,000",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "How do I activate my Visa Debit Multi-Currency Card for ATM / POS transactions?",
+    "answer": "To activate your card, kindly follow the steps below:; Check your PIN Mailer to be sure it’s intact and not tampered with.; Input the four-digit PIN as contained in the PIN Mailer on any FirstBank ATM.; Change the default PIN inputted, by selecting new four-digit PIN on any FirstBank ATM. Do note to destroy your PIN Mailer after changing your PIN and always keep your PIN secret.; Your PIN is personal. Do not disclose it to anyone!",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "How do I activate my Visa Debit Multi-Currency Card for WEB transactions?",
+    "answer": "To make payments on ‘Verified-by-Visa’ (VbV) enabled websites, please generate your ‘I-PIN’ (Internet PIN) on a FirstBank ATM following the steps below:; Insert your card and input your ‘ATM PIN’, select the option ‘PIN CHANGE’ and then choose ‘I-PIN’; Type in your ‘I-PIN’ (any 5 to 6 digits of your choice) and re-enter same for confirmation.; Kindly wait for the ATM to display or print “PIN CHANGE SUCCESSFUL” .",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the Local ATM withdrawal fee (on FirstBank ATMs)?",
+    "answer": "Transactions on FirstBank ATM is free.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the Local ATM withdrawal fee (Other Banks ATMs)?",
+    "answer": "N65/transaction from the fourth (4th) cash withdrawal in a month.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the International ATM withdrawal fee?",
+    "answer": "$3 (or its equivalent in Euro and GBP).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the Local POS and Web fee?",
+    "answer": "Transactions on local POS and Web is free.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the International POS and Web fee?",
+    "answer": "Transactions on International POS and Web is free.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the monthly maintenance fee?",
+    "answer": "N50 for Naira card variant. Not applicable for USD, Euro and GBP card variant.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is the annual maintenance fee?",
+    "answer": "$20 for Dollar card variant (or its equivalent in Euro and GBP). Not applicable for Naira card variant.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "Can I request for POS / WEB limit increase on my Visa Debit Multi-Currency Card?",
+    "answer": "Yes. Kindly fill a concession form at any of our branches to increase your POS / Web spending limits.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "Do I need to have all four (4) account currencies to get the Visa Debit Multi-Currency Card?",
+    "answer": "No. Card request can be done on the Naira account currency (NGN) and thereafter be linked to the domiciliary account of choice.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "Can I transact anywhere in the world, where only one foreign account (e.g. GBP) is linked to my Visa Debit Multi-Currency card?",
+    "answer": "Yes. Transactions carried out, would be debited to the linked foreign account, irrespective of the spend region.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "Where all three currencies – USD, GBP & EURO are linked to my card, can I choose to spend from any account when within a region of the three major currencies?",
+    "answer": "No. Transactions consummated in USA would automatically be debited to the USD account, in UK would be debited to the GBP account, while transactions done in EURO spending nations would be debited to the EURO account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "Where all three currencies – USD, GBP & EURO are linked to my card, can I request that the accounts be swapped when transacting within a region of the three major currencies?",
+    "answer": "No. The accounts cannot be swapped as these are mapped to each region by default, while the appropriate account, depending on the region of transaction, is debited accordingly.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "What is a Default account (Primary)?",
+    "answer": "A Default Account (Primary) which MUST be provided by the customer on the application form – USD, EURO or GBP, is the account that the customer would like to be debited for all his/her cross-border transactions when transacting outside the USD, Euro or GBP environment. The Default Account (Primary) MUST also be captured on ViaCard on the Default Account (Primary) field on ViaCard.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "If I have the three foreign currencies (USD, EURO and GBP) linked to my card and I provided EURO as my Default Account (Primary), which of these accounts will debited when transacting in Dubai or Ghana?",
+    "answer": "The EURO account will be debited since this is the Default Account (Primary) provided by the customer.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "If I have just two currencies (USD and EURO) linked to my card and did a transaction in UK, which of the accounts would be debited?",
+    "answer": "The Default Account (Primary) which could be USD or EURO, MUST have been provided by the customer at the time of making the request and this will be debited accordingly.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "How do I request for a swap of my Default Account (Primary) when transacting in a region outside the three major currencies – USD, GBP & EURO?",
+    "answer": "Kindly contact our Customer Service Desk on 0700FIRSTCONTACT (0700-34778-2668228), 01-4485500, 0708-062-5000 or email firstcontact@firstbanknigeria.com for swapping of Default Account (Primary).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Debit Multi-Currency",
+    "question": "Who do I contact for further enquiry?",
+    "answer": "Kindly visit the nearest FirstBank branch or our website on www.firstbanknigeria.com for Frequently Asked Questions (FAQs) on your card. You may also contact our Customer Service Desk on 07080625000, 02012278000",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "How do I personalize my card?",
+    "answer": "Simply visit https://expressions.firstbanknigeria.com/mobile for mobile and https://expressions.firstbanknigeria.com for desktop to begin.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "What should I do after submitting my card design?",
+    "answer": "Your card would be ready for pick up at your pre-selected branch within 5 working days if you used the “self-authentication” method while completing your card request.; For “branch authentication” method, you would need to visit the pre-selected FirstBank branch during card request with your “reference ID” (generated after submission) to complete your card request.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "What format does my image need to be in and is there any size restriction?",
+    "answer": "You can upload images in any of the following formats: JPEG (.jpg), PNG, GIF, Bitmap (.bmp) or TIFF.; We recommend a minimum image size of 50 x 60 pixels, and a maximum file size of 10MB (megabytes). Remember, If you use a low resolution photo, the image on your card may look blurry when it is printed.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "Can I put any image on my card, for example a celebrity?",
+    "answer": "No . There are some types of images that are not acceptable. Please refer to our “Image Guidelines” on https://expressions.firstbanknigeria.com/ImageGuidelines.aspx for more details.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "Can I upload an image of my family or friends?",
+    "answer": "Yes, provided you have their permission to do so.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "Can I use my existing Naira MasterCard card while I am waiting for my new card to arrive?",
+    "answer": "Yes, as long as it has not expired.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "Can I see what my card would look like before my request is processed?",
+    "answer": "Yes, you would be given the option to preview the final look of your card design on your device screen. You can adjust the picture layout on the card or select a completely new image.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "When would my card be ready for collection?",
+    "answer": "Your card would be ready for pick up within 5 business days after completion of your card request. When you pick your new card, please ensure you activate it by selecting your preferred PIN (Personal Identification Number) on the ‘Customer PIN Selection Machine’ at our customer service desk before leaving the branch OR visit any FirstBank ATM to perform PIN change.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Expressions on Card",
+    "question": "Can I continue using my old debit card while i wait for my Expressions on Card to be ready?",
+    "answer": "Yes, you can continue to use your existing card while waiting for your new card to arrive. Your previous card would be deactivated at the point of collection of your “Expressions” card.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "How do I request for a Debit Card on FirstMobile?",
+    "answer": "Kindly log into FirstMobile > select the menu button on top left corner of the app > card services > Debit card request. Select card type > select account to be debited > select state (location where the card will be picked up) > select preferred Branch > enter authorization PIN> System generates a reference code after submission.; Card request will be treated at the selected Branch and customer walks to the selected branch for card pick up and activation.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "What am I required to do after Reference ID is generated?",
+    "answer": "Kindly write out the Reference ID for submission at the selected branch.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "How will I get the card, will I need still need to go to the branch?",
+    "answer": "Yes.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "What do I need to present at the Branch to get my card?",
+    "answer": "Submit your reference ID or Account number at the selected branch. In addition, a BVN thumbprint validation will be required, and sign-off of the Debit card request form.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "How long will it take me to get the card?",
+    "answer": "In less than 15 minutes.; For Expressions card, delivery timeline is 24-48 hours for Lagos branches, and 3-5 working days for Upcountry locations from date of visit to the selected branch.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "What time can I pick up the card",
+    "answer": "You can visit the selected branch between 9.00am and 2.00pm on Mondays – Fridays.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "What if I am a new user on FirstMobile and have no Debit card, can I still request for the card?",
+    "answer": "No. You need a Debit card to activate the FirstMobile platform for use.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "My card has expired, will the app still be functional for me to make this request?",
+    "answer": "Yes. Simply follow the process above.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "My card was hotlisted after it was missing/stolen, can I still access this platform for this request?",
+    "answer": "Yes. Simply follow the steps above.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "I have an existing card, can I request for the same card type on FirstMobile?",
+    "answer": "Yes, but your existing card will be hot-listed should you complete the request for the same card type.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "Is there an extra charge to use this service?",
+    "answer": "No, you will only be charged N1,000 card issuance fee when your card issuance request has been completed.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Debit Card Request",
+    "question": "I accidentally submitted a card request, how do I cancel the request?",
+    "answer": "You may contact our Customer Service Desk on 0700FIRSTCONTACT (0700-34778-2668228), 01-4485500, 0708-062-5000 or email firstcontact@firstbanknigeria.com to engage the selected branch to cancel the request.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "How do I apply for my Card?",
+    "answer": "Visit the nearest FirstBank branch of choice to apply for the card",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "How do I fund my Card?",
+    "answer": "You can fund your card at any FirstBank branch via cash lodgement, you can transfer funds from any bank Online into the advised card account, and you can also use your debit card to transfer funds at the ATM to the card account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "How do I check my card balance and card account details?",
+    "answer": "Card balance can be checked on the ATM by all or via FirstOnline for existing FirstBank customers when card account is mapped to the customer’s existing “Customer ID”. Card statement can also be viewed with a telebanking access created on request.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "Do I get SMS notification for transactions?",
+    "answer": "Yes, cardholders are alerted per transaction on their registered mobile phone with consummated transaction details and available balance for the next use.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "How can I get my Card Statement?",
+    "answer": "Prepaid Card statement is sent to cardholders registered email address on a monthly basis.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "Can the card be used outside Nigeria?",
+    "answer": "Yes, card can be used abroad on any channel of choice. The currency of the country of use will be dispensed and naira or dollar equivalent debited into card account as applicable to the card type.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "Can the Card be linked to a customer’s existing accounts?",
+    "answer": "No, all Prepaid Card have a dedicated Card Account opened specifically for card transaction purpose",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "What is the maximum amount that can be loaded on this card?",
+    "answer": "Card spending is regulated at N750, 000 per quarter.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "Can the spending limit be increased upon customer’s request?",
+    "answer": "Yes, subject to the regulatory limit. Cardholder will however be required to fulfil full KYC requirement at his/her branch of request.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Visa Prepaid Card",
+    "question": "Is there any minimum card balance & annual maintenance fee?",
+    "answer": "No minimum card balance / annual maintenance fee is applicable to card.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "How do I apply for my Verve Prepaid Card?",
+    "answer": "Visit the nearest FirstBank branch of choice. For Corporate requests, please contact your account officer.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "Must I have a FirstBank account before I can apply for the Verve Prepaid Card?",
+    "answer": "Verve Prepaid Card can be purchased by existing customers and non-customers of the bank. Simply provide your minimum KYC details i.e. Name, Address and Phone number and provide a valid means of ID or Utility bill.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "How do I fund my Verve Prepaid Card?",
+    "answer": "You can fund your card via pay direct at any FirstBank branch or other banks of choice, you can also fund your card via Quick teller online using your debit card to transfer funds to the card number.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "How do I check my Verve Prepaid Card balance?",
+    "answer": "Card balance can be checked on the ATM.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "How can I get my Verve Prepaid Card Statement?",
+    "answer": "Your Verve Prepaid card statement will be made available to you on request at our branches or FirstContact.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "Can the Verve Prepaid Card be used outside Nigeria?",
+    "answer": "No, the Verve Prepaid Card is a purely domestic card.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Verve Prepaid Card",
+    "question": "Is there any minimum card balance and annual maintenance fee?",
+    "answer": "No minimum card balance / annual maintenance fee is applicable to card.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Who is eligible for home loan?",
+    "answer": "An applicant with a verifiable and steady income (paid employment or self-employed)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What is the minimum loan amount on a mortgage?",
+    "answer": "N1 million",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What is the maximum loan amount on a mortgage?",
+    "answer": "N50 million",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What is the loan tenure?",
+    "answer": "Maximum of 20 years subject to 60 years retirement age.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Do I have to make any down payment?",
+    "answer": "Yes, Minimum of 30% on the cost of the property to be bought or constructed irrespective of the location.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What documents do I need to submit to get a Home Loan?",
+    "answer": "Offer Letter from the vendor/owner, letter of application, Home Loan application, letter of Introduction from employer.; Letter of awareness and irrevocable domiciliation where necessary.; Current tax clearance, current tenement receipt, pay slip.; Valuation report if it is an old house.; Bill of quantity if it is a construction home loan.; Copy of the title document to enable a legal search.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Can a Joint Mortgage be packaged for spouses?",
+    "answer": "Yes",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What security/collateral do I have to provide?",
+    "answer": "Typically the security for the loan is a first and exclusive charge of the property to be financed, by way of deposit of title deeds and/or such other collateral security as may be necessary. The title to the property should be clear, marketable and free from any encumbrances.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "How do I repay the loan?",
+    "answer": "From your income (cash flow)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Can the loan be paid down before the facility expires?",
+    "answer": "Yes, after 12 months",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Do I need to open an account with FirstBank to access and service the loan?",
+    "answer": "Yes",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What are the stages involved in taking a mortgage loan?",
+    "answer": "Pre-assessment Stage; Processing & Approval Stage; Perfection Stage",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "What are the various types of home loans offered by the Bank?",
+    "answer": "Outright Purchase; Construction Mortgage; Home Equity (Refinancing)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Can I access a Home loan on an uncompleted building?",
+    "answer": "Yes, It could be packaged as a construction home loan or refinancing loan as the case may be.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "How do I approach FirstBank for a Home Loan?",
+    "answer": "Through any of our branches closest to you.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Can FirstBank assist me in selecting a home of my choice?",
+    "answer": "Yes, we have a list of reputable estate developers whom we partner with. You can decide to purchase from any of them but this is strictly at your discretion. This service provides the customer assistance in identifying a property that fulfills his/her requirements from a vast database of properties.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Do I need to pay additional charge apart from the interest rate?",
+    "answer": "Yes. The cost of perfecting the title of the property to cover the interest of the bank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Home Loans",
+    "question": "Who can be the co-applicants for the loan?",
+    "answer": "You could include your spouse as a co-applicant for the loan and we shall include his/her income to enhance your loan amount.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Joint Mortgage",
+    "question": "Can a self-employed applicant who has banking relationship with FirstBank go into joint mortgage with his/her spouse in a paid employment?",
+    "answer": "Yes, provided the spouse’s employer is acceptable to FirstBank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Joint Mortgage",
+    "question": "Can legitimate couples who work in the same organisation partake in this facility?",
+    "answer": "Yes.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Joint Mortgage",
+    "question": "Who else can enjoy this product?",
+    "answer": "Registered partners in the professional field as joint owners/obligors who must have been in the business for a minimum of five years and must have been banking with FirstBank for 24 months or two years.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Automobile Loans",
+    "question": "Is the Auto loan facility available to salary account holders in other banks?",
+    "answer": "Applicants must have a salary account with FirstBank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Automobile Loans",
+    "question": "Can the facility be used for the acquisition of fairly used vehicles?",
+    "answer": "The facility is restricted to the purchase of brand new vehicles only.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Automobile Loans",
+    "question": "Is credit insurance premium mandatory for this product?",
+    "answer": "Yes. Credit life insures the borrower while the car insurance premium insures the vehicle purchased.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Automobile Loans",
+    "question": "Is it mandatory to purchase my vehicle from FirstBank pre-approved vendor list?",
+    "answer": "Yes, it is.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Automobile Loans",
+    "question": "Is it mandatory to insure the vehicle financed?",
+    "answer": "Yes, all vehicles purchased must be ensured comprehensively through FBN Insurance brokers.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Personal Loan Against Salary",
+    "question": "Is personal loan against salary available to salary account holders in other banks?",
+    "answer": "Applicants must have their salary account with FirstBank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "What is Agent Credit?",
+    "answer": "Agent Credit is a digital lending solution designed to solve immediate liquidity challenges.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "What is the maximum amount I can access?",
+    "answer": "Customers can access up to N1Million subject to 25% of daily average credit turnover.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "What is the tenor of the loan?",
+    "answer": "The maximum tenor for weekday loan is 24hours, while Weekend/Public Holiday is Maximum of 72hours or the next working day.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "What is the interest rate on this product?",
+    "answer": "The interest rate is only 0.3% flat on the principal amount.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Are there other fees when I access the service?",
+    "answer": "Yes, Insurance fee of N1000 per annum which covers death and permanent disability.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "How long does it take for my account to be credited after applying?",
+    "answer": "The loan will be disbursed to your account under one minute.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "How do I apply for the loan?",
+    "answer": "You can apply using your Firstmonie App.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "How long can I be an Agent before I apply?",
+    "answer": "You must have been an Active Agent for a minimum of three months to qualify for loan.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Can the Attendant PIN be used to access the loan?",
+    "answer": "No, it is only ADMIN Pin that can access loan.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Can I apply for all my stores at the same time?",
+    "answer": "No, it is only one account per BVN at a time.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "What happens if I don’t pay my loan as at when due?",
+    "answer": "Your other accounts linked to your BVN will be debited, you will be blacklisted from getting further loan and your Agent License will be withdrawn.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "How many times can I access the loan within 24hours?",
+    "answer": "You can access the loan multiple times subject to your eligibility amount within 24hours for the selected Store.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "What are the Benefits of Agent Credit?",
+    "answer": "Get up to N1Million to fund more Transactions.; Access to fund before Cash lodgment at the Branch.; Available for use every day including Peak Period (Weekdays, Weekend and Public Holiday).; Business Expansion and Increase in Income.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Can I get loan if my ID card is expired?",
+    "answer": "No, you need to renew your ID card with the Bank before accessing loan.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Can I access loan if my account balance is in debit?",
+    "answer": "No, you can only access loan on a credit balance.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Can I access loan if I have existing facilities?",
+    "answer": "No, you cannot.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Agent Credit",
+    "question": "Can I access loan on another Store if I have not fully paid my loan from the first store?",
+    "answer": "No, you cannot access loan on any other stores if the first loan was not completely paid.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Overdraft",
+    "question": "Who can benefit from this facility?",
+    "answer": "FirstBank offers the Secured Overdraft Product to small and medium scale businesses with annual turnover of N500 million and below.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Overdraft",
+    "question": "How much can be obtained under this product programme?",
+    "answer": "The amount any business organisation can get will ultimately be determined by the cashflow from their business evidenced in their bank statement of account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Overdraft",
+    "question": "Would the bank require any form of collateral?",
+    "answer": "Yes. The bank would require either real properties or treasury bills/fixed term deposit as collateral.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Overdraft",
+    "question": "Must properties to be used as collateral have valid title documents?",
+    "answer": "Yes. Properties that may be accepted as collateral must have either of:; A Government issued Certificate of Ownership; A registered deed of Assignment, Deed of Sub Lease or Deed of Conveyance",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Overdraft",
+    "question": "Can a big business get more than N20 million?",
+    "answer": "Yes. Subject to clear evidence of capacity to repay, however this is fully at the discretion of FirstBank",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Overdraft",
+    "question": "How can I apply for this facility?",
+    "answer": "Kindly visit any FirstBank branch closest to you nationwide.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Contract Finance",
+    "question": "Can the supply order come from any company?",
+    "answer": "No, it has to be from an approved Principal of FirstBank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Contract Finance",
+    "question": "Is any collateral required?",
+    "answer": "Yes, domiciliation of business proceeds to the bank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Secured Term Loans",
+    "question": "Is this product available to only existing customers of FirstBank?",
+    "answer": "These products may be availed by new customers of FirstBank with suitable cash flow.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Secured Secured Term Loans",
+    "question": "Can a big business get more than N40 million?",
+    "answer": "Yes. Subject to clear evidence of capacity to repay, however fully at the discretion of FirstBank",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Import Finance FAQs",
+    "question": "Can Remittance on Bills for Collection be made partially?",
+    "answer": "Yes, as per instruction/agreement with beneficiary. However, full remittance must have been made on or before the statutory 270 days after the bill of lading date.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Import Finance FAQs",
+    "question": "What is the maximum period of time an LC can expire?",
+    "answer": "The maximum tenor of an LC is 6 months for normal goods and 12 months for specialised goods and machineries, since the life of the LC is dependent on the life of the Form M. It can be extended subsequently by CBN approval.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Cement Distributorship Finance FAQs",
+    "question": "What do I need to qualify for this facility?",
+    "answer": "Must provide evidence of distributorship with of the Bank’s approved Principals.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Cement Distributorship Finance FAQs",
+    "question": "Do I have to be an existing customer of FirstBank?",
+    "answer": "No, but you must have been a customer of a reputable Bank for not less than 6 months.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Cement Distributorship Finance FAQs",
+    "question": "Do I need to have any prior experience as a cement distributor to be financed by the Bank?",
+    "answer": "Yes, you should have been in the business for not less than one year.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Bonds and Guarantee FAQs",
+    "question": "Do I have be an account holder of the Bank?",
+    "answer": "No, you do not have to be a customer of the Bank, however, you must provide evidence of 6 months banking relationship with another Bank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Bonds and Guarantee FAQs",
+    "question": "Do I have to provide collateral for the APG?",
+    "answer": "No.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Telecommunications Distributorship Finance FAQs",
+    "question": "Do I need to have any prior experience as a telecoms dealer to be financed by the Bank?",
+    "answer": "Yes, you should have been in the business for not less than 6 months.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Petroleum Dealership Finance FAQs",
+    "question": "Do I need to have any prior experience as a petroleum product dealer to be financed by the Bank?",
+    "answer": "Yes, you should have been in the business for not less than 3 years.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Operational Vehicles FAQs",
+    "question": "Can Operational Vehicle Loan be used to purchase automobiles for Commercial Purposes?",
+    "answer": "No.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Operational Vehicles FAQs",
+    "question": "Can the beneficiary of this loan insure the vehicle purchased through its preferred Insurance Company?",
+    "answer": "Yes, but the insurance coy must go through FBN Insurance Brokers.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Operational Vehicles FAQs",
+    "question": "Can the bank finance fairly used vehicles?",
+    "answer": "No.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstEdu Loan FAQs",
+    "question": "Will the school be required to use its property as collateral for this loan?",
+    "answer": "Collateral is undertaking to domicile school fees with FirstBank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstEdu Loan FAQs",
+    "question": "Can this facility be used to construct school buildings?",
+    "answer": "The facility is a short-term facility designed to finance working capital needs of schools. There is a product (Commercial Mortgage) available for schools who want to construct school buildings.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstEdu Loan FAQs",
+    "question": "What amount can a school get from the bank under this product?",
+    "answer": "Maximum Loan amount is N20m.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstEdu Loan FAQs",
+    "question": "When can a school apply for this facility?",
+    "answer": "This facility is available to schools all through the year.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Revenue Loans and Overdraft FAQs",
+    "question": "What is the LGA Revenue Overdraft?",
+    "answer": "The LGA Revenue Overdraft provides financing to eligible Local Governments to meet working capital requirements and carry out small capital projects.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Revenue Loans and Overdraft FAQs",
+    "question": "Who are the eligible Local Governments?",
+    "answer": "The eligible Local Governments are Local Government Authorities (LGAs) who have maintained their subvention account with FirstBank with at least 3 months subvention received into their account. This excludes Local Council Development Authorities (LCDAs), Local Government Education Authorities and Emirate Councils.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Revenue Loans and Overdraft FAQs",
+    "question": "What is the tenor for LGA Revenue Overdraft?",
+    "answer": "Tenor is 12 months with 30 days clean up cycle subject to the expiration of the tenure of the current Local Government Executives.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Revenue Loans and Overdraft FAQs",
+    "question": "What collateral is required to access the facility?",
+    "answer": "No tangible collateral is required, but an Irrevocable domiciliation of the LGAs monthly subvention and other sources of income is required.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Revenue Loans and Overdraft FAQs",
+    "question": "What is the maximum loan amount accessible?",
+    "answer": "The maximum amount accessible is N50Million.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Commercial Mortgage FAQs",
+    "question": "What kind of customers can benefit from this facility?",
+    "answer": "SMEs such as schools, hospitals, professional firms etc.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Commercial Mortgage FAQs",
+    "question": "Is this product restricted to outright purchase alone?",
+    "answer": "The bank will finance both Outright Purchase and Construction of business properties.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Commercial Mortgage FAQs",
+    "question": "What amount can a customer get under this product?",
+    "answer": "The amount a customer can get under the product is subject to a couple of factors such as: the customer’s cash flow, current level of indebtedness, location of property etc. Customers are advised to visit any FirstBank Branch to discuss details of proposed transactions.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Commercial Mortgage FAQs",
+    "question": "Can an individual in paid employment obtain this facility?",
+    "answer": "A different product targeted at individuals in paid employment is available in the bank ( Personal Home Loan ) under which individuals may purchase or construct properties of their choice for personal use.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Health Finance FAQs",
+    "question": "What is the Health Finance Loan?",
+    "answer": "The Health Finance Loan provides financing for registered pharmacies and private hospitals either for working capital or hospital equipment purchase.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Health Finance FAQs",
+    "question": "What is the tenor for Health Finance Loan?",
+    "answer": "Tenor is 6 months for working capital (pharmacies and hospitals) and 36 months for equipment purchase (hospitals only).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Health Finance FAQs",
+    "question": "What collateral is required to access the loans?",
+    "answer": "No collateral is required.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Health Finance FAQs",
+    "question": "What is required to access the Health Finance loan?",
+    "answer": "For Pharmacies – Registration with the pharmaceutical council of Nigeria and a practicing license of a pharmacist. Also, the pharmacy should have been in existence for a at least 2 years For Hospitals – Registration with at least one reputable HMO and the hospital should have been in existence for at least 5 years.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Health Finance FAQs",
+    "question": "Will an applicant be required to make an equity contribution when applying for a loan?",
+    "answer": "For Pharmacies -No For Hospitals – 30% equity contribution for Hospital equipment purchase only.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Health Finance FAQs",
+    "question": "Is it compulsory for an applicant to have an existing account with FirstBank before applying for a loan?",
+    "answer": "No. But applicant must have been in a banking relationship with any reputable Bank for at least 12 months.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "What is First Trader Solution (FTS)?",
+    "answer": "The First Trader Solution is a short-term overdraft facility offered to traders in pre-approved market locations who deal in fast moving goods.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "What is the tenor for FTS?",
+    "answer": "Tenor is either 90 days or 180 days",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "What collateral deposits is required to access FTS?",
+    "answer": "No collateral is required for the 90 days variant. Collateral for the 180 days variant shall be equitable mortgage on shop title documents.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "What is the maximum amount accessible on FTS?",
+    "answer": "Maximum loan amount is N5Million subject to a maximum of 15% of average annual credit turnover or 60% of quarterly credit turnover",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "Where can FTS request be made by customer?",
+    "answer": "Request can be made at any First Bank branch within 5km distance to the business location.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "What is required to access FTS loan?",
+    "answer": "Applicant must have been in current account relationship with First Bank or any other reputable Bank for at least 12 months and have a good credit history. Also, daily sales proceeds should be domiciled to their First Bank account.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "What is the pricing of FTS loan offered to traders by First Bank?",
+    "answer": "Pricing is competitive",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "Will an applicant be required to make an equity contribution when applying for FTS loan?",
+    "answer": "No",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "First Trader Solutions (FTS) FAQs",
+    "question": "Can an applicant have more than one FTS loan running simultaneously?",
+    "answer": "No",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "What is 894?",
+    "answer": "894 is a quick, convenient, secure and easy way to perform your banking transactions (Transfer Money, Check Balance, Buy Airtime, Pay Bills and lots more) anytime and anywhere, using any type of phone without internet (data).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "Who can use this service?",
+    "answer": "All Individual account holders with phone numbers enrolled on the Bank’s SMS alert platform. Joint, corporate, and multiple signatory accounts are not eligible for this service.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "What services are available on 894?",
+    "answer": "You can transfer money, buy airtime for yourself and others, check your account balances, make purchases, pay your bills, open accounts, and lots more.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "Can I use the service on more than one of my accounts?",
+    "answer": "Yes, you can.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "How do I enroll for 894 services?",
+    "answer": "If you have an existing FirstBank debit card(s) linked to your account(s):; Simply dial *894*0#; A list of masked debit card numbers linked to your account is displayed; Select your preferred debit card; Enter the 4-digit Personal Identification Number (PIN) for the selected debit card; Create a new 5-digit PIN; Your number is now LIVE on the FirstBank USSD Quick Banking Service.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "Is this service available on all mobile networks?",
+    "answer": "Yes, all subscribers of Airtel, MTN, Globacom and Etisalat networks can use and enjoy the services.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "How secure is the 894 Mobile Banking?",
+    "answer": "894 is secure as it requires registration and PIN authentication on all your banking transactions.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "USSD",
+    "question": "Who do I contact for support or enquiries?",
+    "answer": "Please call 07080625000, 02012278000 or email firstcontact@firstbanknigeria.com. You may also visit the nearest FirstBank branch.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "How can I transact on WhatsApp?",
+    "answer": "Opt in by accepting the Terms and Conditions; Provide your account number; Validate using your debit card; Setup your WhatsApp PIN; Do your first transaction",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "What transactions can be done through WhatsApp?",
+    "answer": "You can:; Check your balance>; Send Money (Self & Others); Pay Bills; Buy Airtime & Data; Generate your Mini-Statement (Coming Soon)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "Will I be charged for transactions?",
+    "answer": "Check Balance – N10.00 (Delivered via SMS); Send Money (Others) – N52.50 (VAT Inclusive); Pay Bills – N52.50 – N105.00 (VAT Inclusive)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "Why can't I see all my accounts?",
+    "answer": "You can easily transact from your personal Naira accounts. Domiciliary, corporate and joints accounts are not available on WhatsApp Chat Banking.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "How secure is WhatsApp for Banking?",
+    "answer": "WhatsApp Chat Banking is secure and encrypted. Your transactions are done over a secure link, so your privacy is guaranteed. During on-boarding, you’ll need to setup a WhatsApp Chat Banking PIN to securely confirm your transactions.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "Why can't I onboard on WhatsApp Chat Banking?",
+    "answer": "Here are a few reasons why you may be unable to onboard to WhatsApp Chat Banking:; You provided an account that is not permitted on WhatsApp Chat Banking.; The card linked to your account has expired.; The WhatsApp profile (phone number) you’re using is not the same number on which you receive SMS notifications.; You do not an active internet connection.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "What if I forget my WhatsApp Chat Banking PIN?",
+    "answer": "Not a problem. Simply reset your PIN by selecting the ‘Settings’ option then select ‘Reset PIN’ You’ll need your debit card linked to your account to reset your PIN.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Chat Banking",
+    "question": "Can I change my WhatsApp Chat Banking PIN?",
+    "answer": "Yes you can. Just select the ‘Settings’ option then select ‘Change PIN’. You’ll need to provide the old PIN to change to a new PIN. If you have forgotten the old PIN, you may use the ‘Reset PIN’ option.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "What do I need to get started?",
+    "answer": "Download the mobile app from any of these app stores for your mobile device- Apple AppStore, Blackberry World, and Google Play.; To access the FirstToken Mobile App, you need to do the following.; *** Other Stores will be available in future release.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "How do I get the activation code and Serial no?",
+    "answer": "Visit any of our branches, fill the token activation form and the activation code and serial no will be made available to you.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "What do I do with the code generated after inputting the activation code and serial no?",
+    "answer": "This code is the registration code that you will give back to the Customer service officer in the branch. This will be used to activate the FirstToken App on your mobile device. Please note that the registration code generated will only be shown once i.e. the first time you input your serial no. and activation code",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "Is the Mobile App secure?",
+    "answer": "Yes, the FirstToken Mobile app is very secure. This App is secured because after inputting the serial no and activation code, you will be prompted to register a 4-digit PIN that will always be used to access the application on your mobile device. It is important that you keep the PIN confidential and do not share with anyone else.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "i already have the hardware token; do I still need the soft token?",
+    "answer": "You cannot use both token types. You will need to deactivate the hardware token if you are interested in using the soft token app.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "I forgot my PIN to access the App?",
+    "answer": "Do a mail to Firstcontact Firstcontact@firstbanknigeria.com for a PIN reset. In your mail, the following information will be required: your user id, your challenge code (this is a code generated by the App when a wrong pin has been inputted up to 4 times)",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "Who do I contact for support?",
+    "answer": "For support on token related issues, send an email to our contact centre (FirstContact) on 07080625000, 02012278000",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "What is the limit of funds that can be transferred using the Token?",
+    "answer": "The daily limit set on the internet banking platform applies here.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "When do I need to use the FirstToken Device?",
+    "answer": "The token device is used to validate all types of funds transfer and bills payment",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "How long is the FirstToken device valid for?",
+    "answer": "As long as you have the App on your mobile device.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "Can the Token work outside Nigeria?",
+    "answer": "Yes, the token works anywhere in the world",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "Can the FirstToken be linked to all my different accounts with the bank?",
+    "answer": "Yes, one token can be linked to all operative accounts in the bank",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "How long does it take to get the FirstToken activated?",
+    "answer": "The activation of the FirstToken can be processed within 10 minutes at any First bank branch.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Online Security",
+    "question": "an another person use my Token on his/her own account?",
+    "answer": "No. Each token is tied to your account only and cannot work on another account because the code is constantly changing and is unique to your token, no-one but you will have the code needed to access your accounts.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Who do I contact for complaints?",
+    "answer": "You can contact our Money Transfer Department via mail on moneytransfer@firstbanknigeria.com. Alternatively, you can call 019057125, 019057144, 019057122, 019057142 .",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Why did the operator say there is no match for my transaction?",
+    "answer": "A “No match found” transaction could occur as a result of the following:; Wrong MTCN; Stale Transfer; Already paid Transfer.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "What do I do if my transfer has been adjudged to be a “No Match”?",
+    "answer": "Contact your Sender to investigate with Western Union International.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Do I need to reveal my 4-digit PIN to the Operator?",
+    "answer": "You do not need to reveal your 4-digit PIN to the Operator.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Why is the rate of conversion for transactions different from the CBN/parallel market rate?",
+    "answer": "FirstBank does not determine the rate of conversion for the transactions. The rates are automated on the software and are not customized for manipulation by the Bank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Can I collect my transfers on weekends?",
+    "answer": "FirstBank has over 60 dedicated centers spread across the country that offer Money Transfer services everyday including weekends and public holidays from the hours of 10am – 3pm.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Why did the operator keep a copy of my form after refusing payment?",
+    "answer": "The operator keeps the original copy of the form as a proof that the customer visited the location and the transfer was not paid based on the reason(s) annotated on the form.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Western Union",
+    "question": "Can I send funds as a company or to a company?",
+    "answer": "You cannot send funds as a company or to a company . The CBN policy states that the outbound service is strictly on “a person to person basis”. No business transactions are allowed.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Ria Money Transfer",
+    "question": "What does the error “no matching order” as stated by the teller implies?",
+    "answer": "Wrong PIN; Stale transfer; Already paid transfer; Contact your Sender to investigate with Ria Money Transfer.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Ria Money Transfer",
+    "question": "Do I need to reveal my 11-digit PIN to the Operator?",
+    "answer": "Yes, you need to reveal your 11 digit pin to the operator.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Moneygram",
+    "question": "Why did the operator say my reference number is invalid?",
+    "answer": "Contact your Sender to investigate with MoneyGram International.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Moneygram",
+    "question": "What do I do if my MoneyGram transfer has been locked to a FirstBank location?",
+    "answer": "Contact your Sender to effect its release with the MoneyGram Agent partner from the sending country.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "TransFast",
+    "question": "Do I need to reveal my 13-digit PIN to the Operator?",
+    "answer": "Yes you do.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "TransFast",
+    "question": "Can i send Outbound transactions through Transfast?",
+    "answer": "Only Inbound transaction is available in Nigeria.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "World Remit",
+    "question": "What services does WorldRemit offer?",
+    "answer": "WorldRemit offers: Bank deposit, cash pick up. However, FirstBank only offers the bank deposit service.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "World Remit",
+    "question": "Will I pay any fees?",
+    "answer": "No, the sender bears all charges.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "World Remit",
+    "question": "Where can I receive money from?",
+    "answer": "WorldRemit offers money transfers to more than 150 countries. The transfer will be credited directly to the recipients account in FirstBank /Other banks.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "World Remit",
+    "question": "How much can I receive?",
+    "answer": "Recipients will receive the exact amount sent by the sender",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "World Remit",
+    "question": "How long will it take for the money to arrive?",
+    "answer": "Instantly",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "World Remit",
+    "question": "Do I need to supply identification to receive a transfer ?",
+    "answer": "No. However, identification may be required when we commence the cash pick up service.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPay",
+    "question": "How do I know that my beneficiaries have been credited?",
+    "answer": "Status reports of all your transactions are available on the platform.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPay",
+    "question": "How can I delete a beneficiary that I do not want to pay from an uploaded schedule?",
+    "answer": "Check the particular beneficiary you do not want to pay and click on delete, or you can check all the other transactions leaving the one you do not want to pay unchecked and click submit to continue the process.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPay Link",
+    "question": "What is the cost implication?",
+    "answer": "A one-off implementation cost of N50,000 per Switch (Card scheme), to be borne by the Merchant.; Transaction charge of 1.5%, subject to a maximum of N2,000. To be borne by the Merchant",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPay Link",
+    "question": "Is it mandatory for a Merchant to have a FirstBank account?",
+    "answer": "Yes, the merchant must be a FirstBank Account Holder",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstPay Link",
+    "question": "Must the payer/cardholder be a FirstBank Account Holder?",
+    "answer": "Payments on the Merchant website via FirstPayLink can be done using any Bank card..",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstEdu Portal",
+    "question": "How much will it cost to implement?",
+    "answer": "No cost to the school.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "FirstEdu Portal",
+    "question": "How can we monitor student payments?",
+    "answer": "FirstEdu Portal has robust reports suited to the school’s needs.; How are access rights managed?; Rights are assigned on need-to-know/need-to-use basis.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "TV Subscription",
+    "question": "How can I pay my TV Subscription?",
+    "answer": "TV subscriptions can be paid in all FBN branches, ATM machines, online through FirstOnline and via FirstMobile, our innovative mobile app.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "TV Subscription",
+    "question": "What would I need to make my TV subscription payments?",
+    "answer": "You will need the following:; Smart card number; Cheque or cash; Name and address of subscriber.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "TV Subscription",
+    "question": "Are there any charges to the customer apart from the subscription amount?",
+    "answer": "For payments made at the branch, there is no extra charge. However, for payments made via the web, through FirstMobile or via an ATM, there is a token charge.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Electricity",
+    "question": "Will I still need to go to Electricity Distribution Company office after payment in the bank?",
+    "answer": "No you do not need to go to the Electricity company once payment is made in the bank. You can simply paste the e-receipt obtained at the bank in a most visible place on your property as you normally do.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Electricity",
+    "question": "Would my payment reflect immediately in my subscriber account?",
+    "answer": "Yes, your payment reflects immediately in your subscriber account as soon as your payment is made.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Waste Bills",
+    "question": "Does FirstBank collect Waste Bills for my State?",
+    "answer": "At the moment, FirstBank only collects waste bills in Lagos, Edo and Enugu. Other locations are being steadily rolled out.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Federal Inland Revenue Service",
+    "question": "What is TIN?",
+    "answer": "Tax Identification Number. A unique code for recognising a taxpayer on FIRS database.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Federal Inland Revenue Service",
+    "question": "Can payment be made in any FirstBank branch?",
+    "answer": "Yes, you can pay your tax at any FirstBank branch.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Federal Inland Revenue Service",
+    "question": "What documents required for payment?",
+    "answer": "Customer TIN, Assessment Form, WHT schedule.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Federal Inland Revenue Service",
+    "question": "How can a new taxpayer get the TIN?",
+    "answer": "Taxpayers can get their Tax Identification Number (TIN) from any Federal Inland Revenue Service (FIRS) tax office.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Federal Inland Revenue Service",
+    "question": "Must a taxpayer be assessed before payment?",
+    "answer": "Pre-payment assessment is not necessary. However, new taxpayers (individual and corporate) are assessed before payment of certain taxes, for instance POL Tax, Penalty, etc.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Customs Duty",
+    "question": "Can payment be made at any bank?",
+    "answer": "Payment must be made at the bank where the Form M was established.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Customs Duty",
+    "question": "What are the documentation required for payment?",
+    "answer": "Assessment Notice from Customs.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Customs Duty",
+    "question": "What is SGD Assessment Notice?",
+    "answer": "Assessment Notice contain details of duty to be paid.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Customs Duty",
+    "question": "Who issued the SGD Assessment Notice?",
+    "answer": "Nigeria Customs Service (NCS).",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Nigerian Immigration Services",
+    "question": "Will I have to start the process for my passport or visa in the bank?",
+    "answer": "No you will not. Registration is done online via the NIS portal. Only payment is made in the bank.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  },
+  {
+    "bank": "First Bank",
+    "category": "Nigerian Immigration Services",
+    "question": "Will I get my Visa or Passport once payment is made in the bank?",
+    "answer": "Yes, but at the NIS office, after completion of all processes involved. Upon payment, customer takes his or her proof of payment to the NIS office where the passport or visa is finally processed.",
+    "source_url": "https://www.firstbanknigeria.com/contact/faqs/",
+    "scraped_at": "2026-09-02"
+  }
+]
