@@ -23,7 +23,7 @@ MODEL_NAME = "all-MiniLM-L6-v2"
 DATABASE_URL = os.environ["DATABASE_URL"]
 
 model = SentenceTransformer(MODEL_NAME)
-conn = psycopg.connect(DATABASE_URL)
+conn = psycopg.connect(DATABASE_URL, autocommit=True)
 
 
 def vec_to_str(vector) -> str:

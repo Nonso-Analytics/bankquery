@@ -93,6 +93,26 @@ def embed_and_load_to_pgvector(documents: list[dict]) -> int:
     return count
 
 
+def ensure_conversations_table():
+    """Create the conversations table (for monitoring/feedback) if it doesn't exist."""
+    conn = psycopg.connect(DATABASE_URL)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS conversations (
+            id SERIAL PRIMARY KEY,
+            question TEXT,
+            answer TEXT,
+            bank_filter TEXT,
+            num_sources INTEGER,
+            response_time_seconds FLOAT,
+            feedback INTEGER,
+            created_at TIMESTAMP DEFAULT NOW()
+        )
+    """)
+    conn.commit()
+    conn.close()
+    print("conversations table ready")
+
+
 def run_pipeline():
     """
     Full pipeline run:
@@ -115,6 +135,7 @@ def run_pipeline():
     print(f"dlt load info: {load_info}")
 
     count = embed_and_load_to_pgvector(documents)
+    ensure_conversations_table()  
     print(f"\nPipeline complete. {count} documents embedded and loaded into PGVector.")
     return count
 

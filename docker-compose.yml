@@ -1,0 +1,32 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pswd
+      POSTGRES_DB: bankquery
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d bankquery"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      DATABASE_URL: postgresql://user:pswd@postgres:5432/bankquery
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./data:/app/data
+
+volumes:
+  pgvector_data:
