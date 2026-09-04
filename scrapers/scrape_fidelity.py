@@ -75,7 +75,7 @@ def scrape_fidelity():
             # so requirements lists don't get mashed together with no separator.
             answer_parts = []
             for child in a_el.find_all(["p", "li"], recursive=True):
-                text = child.get_text(strip=True)
+                text = child.get_text(" ", strip=True)
                 if text:
                     answer_parts.append(text)
             answer = "; ".join(answer_parts) if answer_parts else a_el.get_text(" ", strip=True)
