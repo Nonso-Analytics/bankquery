@@ -247,3 +247,4 @@ docker compose exec app python pipeline.py   # populate PGVector (first run only
 ```
 
 Open `http://localhost:8501`.
+Live : 
